@@ -8,7 +8,7 @@ Hello its will be my first post in my blog.
 
 Code javascript:
 
-![pic](_posts/4338228.jpg)
+![tesxy]({{site.baseurl}}//images/post/4338228.jpg)
 
 ```javascript
 /* Some pointless Javascript */
