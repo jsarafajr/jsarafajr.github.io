@@ -16,3 +16,5 @@ In a few minutes you'll be set up with a minimal, responsive blog like the one b
 
 ## Editing
 [Prose.io](http://prose.io/)
+
+[Markdown](http://www.jekyllnow.com/Markdown-Style-Guide/)
