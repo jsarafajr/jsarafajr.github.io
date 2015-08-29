@@ -1,11 +1,14 @@
 ---
 layout: post
 title: First Post
+published: true
 ---
 
 Hello its will be my first post in my blog.
 
 Code javascript:
+
+![pic]({{site.baseurl}}/_posts/4338228.jpg)
 
 ```javascript
 /* Some pointless Javascript */
