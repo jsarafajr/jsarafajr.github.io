@@ -1,5 +1,6 @@
 ---
-published: false
+layout: post
+title: First Post
 ---
 
 Hello its will be my first post in my blog.
