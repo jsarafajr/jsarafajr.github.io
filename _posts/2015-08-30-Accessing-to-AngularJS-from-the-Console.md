@@ -27,3 +27,11 @@ In webkit $0 is a reference to the selected DOM node in the elements tab.
 ![](https://developer.chrome.com/devtools/docs/commandline-api-files/$0.png)  
 _Image from [dev.chrome.com](https://developer.chrome.com)_
 
+## Getting $scope
+Pick an element in the HTML panel of the developer tools and type this in the console
+
+```javascript
+// Angular JS
+angular.element($0).scope();
+```
+
