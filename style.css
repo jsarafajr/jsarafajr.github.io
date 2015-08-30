@@ -56,6 +56,13 @@ html {
   font-size: 100%; 
 }
 
+@media (min-width: 38rem) {
+  html {
+    font-size: 20px;
+  }
+}
+
+
 body {
   background: #fff;
   color: #333; }
