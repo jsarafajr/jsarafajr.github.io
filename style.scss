@@ -19,11 +19,8 @@ html {
 
 body {
 	background: $white;
+  font: 18px/1.4 $helvetica;
   color: $darkGray;
-
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 16px;
-  line-height: 1.5;
 }
 
 .container {
@@ -33,28 +30,38 @@ body {
   width: 100%;
 }
 
-/* Headings */
 h1, h2, h3, h4, h5, h6 {
-  margin-bottom: .5rem;
+  font-family: $helveticaNeue;
+  color: $darkerGray;
   font-weight: bold;
-  line-height: 1.25;
-  color: #313131;
-  text-rendering: optimizeLegibility;
+
+  line-height: 1.7;
+  margin: 1em 0 15px;
+  padding: 0;
+
+  @include mobile {
+    line-height: 1.4;
+  }
 }
+
 h1 {
-  font-size: 2rem;
+  font-size: 30px;
+  a {
+    color: inherit;
+  }
 }
+
 h2 {
-  margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 24px;
 }
+
 h3 {
-  margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 20px;
 }
-h4, h5, h6 {
-  margin-top: 1rem;
-  font-size: 1rem;
+
+h4 {
+  font-size: 18px;
+  color: $gray;
 }
 
 p {
