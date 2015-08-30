@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: Lorem ipsum
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+## Lorem ipsum dolor sit amet
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Lorem ipsum dolor sit amet consectetur adipisicing elit. A aut doloremque et explicabo magni, maiores quae sint unde. Amet animi dolor ex facere officiis qui temporibus, voluptatum? A, ad quam.  
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cum cumque eius facere nulla quae quisquam unde, vel vitae voluptatem.  
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cum cumque eius facere nulla quae quisquam unde, vel vitae voluptatem.  
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda cum cumque eius facere nulla quae quisquam unde, vel vitae voluptatem.
