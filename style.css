@@ -137,10 +137,6 @@ img {
 .gmnoprint img {
   max-width: none; }
 
-.date {
-  font-style: italic;
-  color: #666; }
-
 ::-moz-selection {
   color: #000;
   background: #eee; }
@@ -250,6 +246,14 @@ nav {
 .post .read-more {
   text-transform: uppercase;
   font-size: 15px; }
+  
+.post .date {
+  display: block;     
+  margin-top: -.5rem;     
+  /* margin-bottom: 1rem; */     
+  color: #9a9a9a;
+  font-size: 80%;
+}
 
 .wrapper-footer {
   margin-top: 50px;
