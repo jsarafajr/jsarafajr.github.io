@@ -6,6 +6,7 @@ published: true
 
 
 
+
 There are a set of scenarios when you need to get angular variables such as scopes, services, values etc. from the developer console to debug. Angular provide methods to do this.
 
 ## angular.element
@@ -31,13 +32,11 @@ _Image from [dev.chrome.com](https://developer.chrome.com)_
 Pick an element in the HTML panel of the developer tools and type in the console
 
 ```javascript
-// Angular JS
 angular.element($0).scope();
 ```
 ## Getting service
 To get access to your angular service type in console
 
 ```javascript
-// Angular JS
 angular.element(document.body).injector().get('serviceName');
 ```
