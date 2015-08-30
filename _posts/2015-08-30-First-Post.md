@@ -4,11 +4,12 @@ title: First Post
 published: true
 ---
 
+
 Hello its will be my first post in my blog.
 
 Code javascript:
 
-![tesxy]({{site.baseurl}}//images/post/4338228.jpg)
+![tesxy]({{site.baseurl}}/images/4338228.jpg)
 
 ```javascript
 /* Some pointless Javascript */
