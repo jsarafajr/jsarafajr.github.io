@@ -34,4 +34,11 @@ Pick an element in the HTML panel of the developer tools and type in the console
 // Angular JS
 angular.element($0).scope();
 ```
+## Getting service
+To get access to your angular service type in console
+
+```javascript
+// Angular JS
+angular.element(document.body).injector().get('serviceName');
+```
 
