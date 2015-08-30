@@ -10,5 +10,11 @@ Angular provide methods to help in doing this.
 
 ## angular.element
 Angular provide a function [angular.element()](https://docs.angularjs.org/api/ng/function/angular.element) which wraps a raw DOM element or HTML string as a jQuery element (jqLite).  
-For example _angular.element(document).ready()_ is equivalent to jQuery's _$(document).ready()_ function.
+For example _2_ is equivalent to jQuery's _$(document).ready()_ function.
 
+```javascript
+angular.element(document).ready()
+```
+```javascript
+$(document).ready()
+```
