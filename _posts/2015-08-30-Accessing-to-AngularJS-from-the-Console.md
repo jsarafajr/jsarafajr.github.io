@@ -25,5 +25,5 @@ $(document).ready(function() {
 ## $0 in Chrome
 In webkit $0 is a reference to the selected DOM node in the elements tab.  
 ![](https://developer.chrome.com/devtools/docs/commandline-api-files/$0.png)  
-Image from [dev.chrome.com](https://developer.chrome.com)  
+_Image from [dev.chrome.com](https://developer.chrome.com)_
 
