@@ -18,7 +18,7 @@ avatar: https://pp.vk.me/c622028/v622028803/31f53/p0HEWNC0zdU.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: evgeniy.baranuk@gmail.com
+  email: 
   facebook: 
   flickr:
   github: jsarafajr
@@ -26,7 +26,7 @@ footer-links:
   linkedin: https://ua.linkedin.com/pub/evgeniy-baranuk/94/5b3/9a2
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter:
+  twitter: jsarafajr
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
