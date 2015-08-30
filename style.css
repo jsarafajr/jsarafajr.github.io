@@ -26,7 +26,7 @@ footer, header, hgroup, menu, nav, section {
   display: block; }
 
 body {
-  line-height: 1.5; }
+  line-height: 1; }
 
 ol, ul {
   list-style: none; }
@@ -86,19 +86,20 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 30px; }
-  h1 a {
-    color: inherit; }
-
+  font-size: 2rem;
+}
 h2 {
-  font-size: 24px; }
-
+  margin-top: 1rem;
+  font-size: 1.5rem;
+}
 h3 {
-  font-size: 20px; }
-
-h4 {
-  font-size: 18px;
-  color: #666; }
+  margin-top: 1.5rem;
+  font-size: 1.25rem;
+}
+h4, h5, h6 {
+  margin-top: 1rem;
+  font-size: 1rem;
+}
 
 p {
   margin: 15px 0; }
