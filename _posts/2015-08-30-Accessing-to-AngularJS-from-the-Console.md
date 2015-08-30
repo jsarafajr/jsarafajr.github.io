@@ -7,6 +7,7 @@ published: true
 
 There are a set of scenarious when you need to get access to angular variables like scope, services, values etc. from developer's console to debug. 
 Angular provide methods to help in doing this.
+<br>
 ## Getting $scope
-Angular provide method angular.element()  
+Angular provide function [angular.element()](https://docs.angularjs.org/api/ng/function/angular.element) 
 
