@@ -54,6 +54,8 @@ table {
 html {
   font-family: "PT Serif", Georgia, "Times New Roman", serif;
   font-size: 100%; 
+  min-height: 100%;
+  position: relative;
 }
 
 @media (min-width: 38rem) {
@@ -68,6 +70,7 @@ body {
   color: #333; }
 
 .container {
+  margin-bottom: 89.5px;
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
@@ -263,7 +266,11 @@ nav {
   margin-top: 50px;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
-  background-color: #eee; }
+  background-color: #eee; 
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+}
 
 footer {
   padding: 20px 0;
