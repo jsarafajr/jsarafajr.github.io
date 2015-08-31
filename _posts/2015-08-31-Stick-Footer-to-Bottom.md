@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: How to stick footer with CSS
+published: true
 ---
 
 Next example shows an easiest way to stick your footer to bottom of a page using CSS.  
