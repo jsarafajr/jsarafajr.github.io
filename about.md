@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Thank you for visiting my blog. My name is Evngeniy Baranuk and I'm web developer from Kiev, Ukraine. 
+I use this blog for kepping some information about technologies interesting for me.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My CV is avaliable [here](https://drive.google.com/open?id=0B8KQVoucFP1PaXpaQVAzQmNIQkE) and here is my [LinkedIn profile](https://ua.linkedin.com/pub/evgeniy-baranuk/94/5b3/9a2)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Mail: [evgeniy.baranuk@gmail.com](mailto:evgeniy.baranuk@gmail.com)
+Skype: evgeniy.baranuk
