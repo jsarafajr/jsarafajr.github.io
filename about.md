@@ -11,5 +11,5 @@ My CV is avaliable [here](https://drive.google.com/open?id=0B8KQVoucFP1PaXpaQVAz
 
 ### Contact me
 
-Mail: [evgeniy.baranuk@gmail.com](mailto:evgeniy.baranuk@gmail.com)
+Mail: [evgeniy.baranuk@gmail.com](mailto:evgeniy.baranuk@gmail.com)  
 Skype: evgeniy.baranuk
