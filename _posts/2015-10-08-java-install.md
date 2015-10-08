@@ -21,7 +21,7 @@ Enter the following at the bottom of the **/etc/environment** file:
 JAVA_HOME="/usr/lib/jvm/java-8-oracle"
 ```    
 
-Type the following to execute **environment** file
+Type the following to execute **environment** file:
  
 ```bash
 source /etc/environment
