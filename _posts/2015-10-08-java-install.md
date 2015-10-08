@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Installing Java 8 on Ubuntu based Linux
 published: true
