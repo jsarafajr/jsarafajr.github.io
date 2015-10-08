@@ -26,3 +26,6 @@ Type the following to execute **environment** file
 ```bash
 source /etc/environment
 ```
+  
+    
+    
