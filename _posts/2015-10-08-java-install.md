@@ -5,7 +5,7 @@ published: true
 ---
 
 
-Every time I got stuck when trying install Java and add JAVA_HOME variable on a new machine. So I save steps here.
+Every time I got stuck when trying install Java and add JAVA_HOME variable on a new machine. So I save steps here.  
 
 Setup repository and install java8:
 
