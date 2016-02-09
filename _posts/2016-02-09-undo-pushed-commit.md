@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## How to undo pushed commit
