@@ -3,7 +3,8 @@ layout: post
 title: Undo pushed commit
 published: true
 ---
-
+  
+  
 ```
 git reset --hard HEAD~1  
 git push -f <remote> <branch>
