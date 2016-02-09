@@ -1,8 +1,8 @@
 ---
+layout: post
+title: Undo pushed commit
 published: true
 ---
-
-## How to undo pushed commit
 
 ```
 git reset --hard HEAD~1  
