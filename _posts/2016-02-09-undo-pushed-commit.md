@@ -5,7 +5,7 @@ published: true
 ---
   
   
-```
+```bash
 git reset --hard HEAD~1  
 git push -f <remote> <branch>
 ```
