@@ -1,21 +1,14 @@
 ---
 layout: post
-title: Disable Web Security in Chrome
+title: Remove all Docker Images from host OS
 published: true
 ---
-  
-_'No 'Access-Control-Allow-Origin' header is present on the requested resource.'_  
-To prevent this error run chrome without web security:  
-
-For OSX:  
-
+Delete all containers:  
 ```bash
-open -a Google\ Chrome --args --disable-web-security
-```  
-  
-For Linux:  
-
-```bash
-google-chrome --disable-web-security
+docker rm $(docker ps -a -q)
 ```  
 
+Delete all images:    
+```bash
+docker rmi $(docker images -q)
+```
